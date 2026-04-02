@@ -1,0 +1,2 @@
+cut down a bit on unnecessary storage access.
+base is cheap, but still good practice to keep things efficient.
