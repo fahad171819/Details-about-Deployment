@@ -1,0 +1,4 @@
+realized one of the state variables wasn’t really needed.
+removed it and simplified a couple of functions.
+
+code feels cleaner now.
