@@ -1,0 +1,2 @@
+cleaned up constructor so initial state is more explicit.
+should make it easier to understand when revisiting later.
