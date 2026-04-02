@@ -1,0 +1,2 @@
+reordered a few lines inside the main function to make execution flow clearer.
+no functional change, just easier to read and reason about.
