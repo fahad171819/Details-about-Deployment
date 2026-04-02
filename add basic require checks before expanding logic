@@ -1,0 +1,2 @@
+put in some guard conditions to avoid bad inputs.
+nothing complex yet, just making sure we don’t break things later.
